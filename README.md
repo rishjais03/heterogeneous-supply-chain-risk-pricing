@@ -75,8 +75,14 @@ The analysis includes:
 
 ## Repository Structure
 
-```bash
+```
 data/        # Raw and processed datasets
-figures/     # Visualizations and plots
 results/     # Regression outputs and summary statistics
 paper/       # Research manuscript
+```
+---
+## SSRN Paper
+
+The research paper is also available on SSRN:
+
+- SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6726289
